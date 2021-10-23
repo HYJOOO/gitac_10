@@ -63,4 +63,25 @@ https://www.w3schools.com/html/html_elements.asp
 ## HTML Attribute(속성)
 https://www.w3schools.com/html/html_attributes.asp
 
+  - HTML Element에 추가 정보를 제공
+  - 시작태그에 작성
+  - name="value" 형식으로 구성 
+  
+  ## HTML Contents 표시 Element
+
+  > - Text Contents
+  >   - 제목, 단락, 목록, 링크, 테이블(표)
+  > - Multimedia Contents
+  >   - 이미지, 비디오, 오디오
+
+### HTML Heading
+
+- h : (h)eading : 제목 표시 태그
+- h1 ~ h6 : h1 - 가장 큰 제목
+
+### HTML Paragraph
+
+- p : (p)aragraph : 단락 표시 태그
+
+
 
