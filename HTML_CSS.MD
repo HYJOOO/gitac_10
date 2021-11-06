@@ -461,6 +461,44 @@ font -family: 굴림,동움, sans-serif
   -폰트 파일을 서버에 업로드해서,사용자가 웹사이트에 접속했을 때 똑같은 폰트를 적용할 수 있도록 하는 기술.
   -웹폰트 파일 형식 : eot,woff,woff2
 
+-웹폰트 서비스
+  -google font : 영문,한글
+  -niinnu font : 한글
+
+-사용빈도가 높은 폰트
+  - 고딕체
+    - 나눔 바른 고딕 : 네이버 
+    - 본고딕(Noto Sans) : google+adobe
+
+- font-style
+  -Italic : 기울임꼴 
+
+- font-weight 
+  - normal, bold
+  - 100,200,300,400,500,600,700,800,900
+
+- font-size : 크기
+
+### CSS LINKS
+https://www.w3schools.com/css/css_link.asp
+
+-4가지 상태 구분을 해서 각각 스타일링을 할 수 있음 
+
+### CSS LIST
+https://www.w3schools.com/css/css_list.asp
+-목록에서 자동으로 생성되는 기호,숫자 제거하고 사용함
+
+### CSS TABLE
+https://www.w3schools.com/css/css_table.asp
+-TABLE 셀 테두리 사이의 틈을 없애고 사용 
+
+## Multi media contents styling
+
+-image
+-video
+
+-크리 조정,배치 => Box styling
+
 
 
 
